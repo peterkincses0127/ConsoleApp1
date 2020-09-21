@@ -8,6 +8,10 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             int a = 0;
+            int b = 0;
+            int c = 0;
+            Console.WriteLine("adasdasd");
+            Console.ReadKey();
         }
     }
 }
